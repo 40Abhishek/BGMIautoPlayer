@@ -1,0 +1,28 @@
+kubg:
+program:
+        click on screen-pip install keyword
+                                  and pyautogui(RGB)
+        position of click-pip install pywin32
+        what to click- pip install opencv
+        
+functions to perform:
+        1.  sprint or stop
+        2.  right or left
+        3. map/playzone
+        4. crouch and prone
+        5. direction to move towards
+        6. hot regions to avoid
+        7. timing of circles
+        8. ......
+
+
+
+timings:
+
+
+
+
+
+
+to do :
+time to reach land without anything

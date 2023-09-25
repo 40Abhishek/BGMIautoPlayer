@@ -1,0 +1,26 @@
+pip install pyautogui
+pip install keyboard
+pip install time
+
+
+
+
+s -start button
+j - jump
+p - prone
+e - exit(left bottom)
+r - continue/lobby(roght bottom)
+
+
+plane image-problem
+dim:X:  241 Y:  203
+X:  241 Y:  670
+X: 1062 Y:  670
+
+467
+821
+
+
+dim:killed-0
+X:    0 Y:   70
+X:  290 Y:    0

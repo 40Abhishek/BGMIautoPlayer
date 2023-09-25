@@ -1,0 +1,81 @@
+pip install pyautogui
+pip install keyboard
+pip install time
+
+
+
+
+s -mouse click
+j - jump(click)
+p - prone
+e - exit(left bottom)(click)
+r - continue/lobby(roght bottom)(click)
+q - sprint
+m - maps
+c - crouch
+a - move left
+d - move right
+
+
+plane image-problem
+dim:X:  241 Y:  203
+X:  241 Y:  670
+X: 1062 Y:  670
+
+467
+821
+
+
+dim:killed-0
+X:    0 Y:   70
+X:  290 Y:    0
+
+
+dim:playzone-0
+X:  610 Y:   74
+X:  610 Y:  100
+X:  692 Y:  100
+
+timings:
+plane to first circle:2 mins
+[1.
+5 min timmer
+5min(to go to white)
+]
+
+[2.
+3.20 timmer
+2.20(to white)
+]
+
+[3.
+2.30 timmer
+1.30(to white)
+
+]
+
+[4.
+2.00 timmer
+1.00(to white)
+
+]
+
+[5.
+0.40(to white)]
+
+[6.(175 m)
+0.30(to white)]
+
+[7.(90 m)
+0.30(to white)]
+
+[8. last]
+
+
+X:  603 Y:   71
+X:  603 Y:  110
+X:  714 Y:  110
+
+
+
+
